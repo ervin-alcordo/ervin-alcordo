@@ -17,4 +17,4 @@ I'm a passionate **PHP Developer** with a knack for problem-solving and over fiv
 - **Tools:** SSH, DNS Setup, SSL Setup, FTP, CronJobs
 
 ### Learning
-- **Currently Exploring:** Selenium, Python, Laravel, ReactJS
+- **Currently Exploring:** Selenium, Laravel, ReactJS
